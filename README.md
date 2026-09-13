@@ -1,46 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071E3D,50:0A66C2,100:00D4FF&height=220&section=header&text=G%C3%BCray%20G%C3%BCr&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Automation%20%C2%B7%20Creative%20Technology%20%C2%B7%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Güray Gür profile banner" />
-</p>
+<img src="assets/profile-cover.svg" width="100%" alt="Güray Gür — Engineering ideas into working systems. AI automation, creative technology. 4+ global content channels; 60% less manual work." />
 
 <p align="center">
-  <a href="https://guraygur.me"><img src="https://img.shields.io/badge/Portfolio-guraygur.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/guraygur/"><img src="https://img.shields.io/badge/LinkedIn-guraygur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://guraygur.me"><strong>Explore my portfolio ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/guraygur/">LinkedIn ↗</a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://medium.com/@guraygur">Writing ↗</a>
 </p>
 
-<p align="center">
-  I build practical, AI-assisted systems that connect automation, content operations, and engineering.
-</p>
+<br />
 
-<table align="center">
-  <tr>
-    <td align="center" width="220"><strong>4+</strong><br /><sub>Global content channels</sub></td>
-    <td align="center" width="220"><strong>60%</strong><br /><sub>Manual workload reduced</sub></td>
-    <td align="center" width="220"><strong>AI × Creative</strong><br /><sub>Systems I build</sub></td>
-  </tr>
+### A builder with a creative background.
+
+I'm **Güray**, a computer engineering student working at the intersection of **AI, automation, and digital media**. I build tools for the workflows I use, work with content teams, and learn by putting ideas into practice.
+
+<br />
+
+### Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>01 / AUTOMATION</sub>
+<h3>From manual tasks<br />to connected workflows.</h3>
+<p>A custom Python management panel connected to n8n, with AI-assisted analysis and task assignment for my team.</p>
+<p><code>Python</code> <code>n8n</code> <code>AI workflows</code></p>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7427437145943900160/"><strong>Read the build story ↗</strong></a>
+<br /><br />
+</td>
+<td width="50%" valign="top">
+<sub>02 / CREATIVE OPERATIONS</sub>
+<h3>Content production.<br />Built as a system.</h3>
+<p>Combining creative direction, team coordination, and automation across 4+ global content channels.</p>
+<p><code>Content strategy</code> <code>Automation</code></p>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7402377259329667073/"><strong>Explore the results ↗</strong></a>
+<br /><br />
+</td>
+</tr>
 </table>
 
-## What I focus on
+<br />
 
-| Area | What that looks like |
-| :-- | :-- |
-| **AI & workflow automation** | Python and n8n systems that remove repetitive work |
-| **Creative technology** | Turning content, research, and operations into repeatable processes |
-| **ML foundations** | Building a practical base in algorithms, data, and machine learning |
+### Tools & direction
 
-## Toolkit
+**Building with** &nbsp; Python · n8n · Git · SQL  
+**Creating with** &nbsp; Blender · Video & photo editing  
+**Learning deeply** &nbsp; Algorithms · Machine learning · Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,mysql,blender,vscode&theme=dark" alt="Python, Git, MySQL, Blender and VS Code" />
-</p>
+<br />
 
-`n8n` &nbsp;·&nbsp; `Machine Learning` &nbsp;·&nbsp; `Video & Photo Editing`
+---
 
-## Currently
+**Have something worth building?**  
+Open to internships and collaborations in AI, automation, and software.
 
-- Building useful AI automation systems
-- Deepening my computer-engineering and ML foundation
-- Looking for collaborations, internships, and projects in AI, automation, software, and creative technology
-
-<p align="center">
-  <a href="https://guraygur.me">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/guraygur/">LinkedIn</a>
-</p>
+[Let's connect ↗](https://www.linkedin.com/in/guraygur/) &nbsp; · &nbsp; [guraygur.me](https://guraygur.me)

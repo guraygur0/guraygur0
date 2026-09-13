@@ -1,55 +1,31 @@
-<img src="assets/profile-cover.svg" width="100%" alt="Güray Gür — Engineering ideas into working systems. AI automation, creative technology. 4+ global content channels; 60% less manual work." />
+<img src="assets/profile-cover.svg" width="100%" alt="Güray Gür. Curiosity to code. Ideas to impact. AI automation for creative work. 4+ global content channels and 60% less manual work." />
 
-<p align="center">
-  <a href="https://guraygur.me"><strong>Explore my portfolio ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/guraygur/">LinkedIn ↗</a> &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://medium.com/@guraygur">Writing ↗</a>
-</p>
+<p align="center"><a href="https://guraygur.me"><strong>PORTFOLIO ↗</strong></a> &nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/guraygur/">LINKEDIN ↗</a> &nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp; <a href="https://medium.com/@guraygur">WRITING ↗</a></p>
 
-<br />
+### Engineering meets creative work.
 
-### A builder with a creative background.
-
-I'm **Güray**, a computer engineering student working at the intersection of **AI, automation, and digital media**. I build tools for the workflows I use, work with content teams, and learn by putting ideas into practice.
-
-<br />
+I'm **Güray**, a computer engineering student who builds **AI automations and tools for content teams**. My background in digital media shapes the way I approach software: start with a real workflow, build something useful, and improve it through use.
 
 ### Selected work
 
+<img src="assets/work-showcase.svg" width="100%" alt="Two illustrated projects: a Python and n8n management panel with AI-assisted task assignment, and creative production workflows across 4+ global channels." />
+
 <table>
 <tr>
-<td width="50%" valign="top">
-<sub>01 / AUTOMATION</sub>
-<h3>From manual tasks<br />to connected workflows.</h3>
-<p>A custom Python management panel connected to n8n, with AI-assisted analysis and task assignment for my team.</p>
-<p><code>Python</code> <code>n8n</code> <code>AI workflows</code></p>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7427437145943900160/"><strong>Read the build story ↗</strong></a>
-<br /><br />
-</td>
-<td width="50%" valign="top">
-<sub>02 / CREATIVE OPERATIONS</sub>
-<h3>Content production.<br />Built as a system.</h3>
-<p>Combining creative direction, team coordination, and automation across 4+ global content channels.</p>
-<p><code>Content strategy</code> <code>Automation</code></p>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7402377259329667073/"><strong>Explore the results ↗</strong></a>
-<br /><br />
-</td>
+<td width="50%" valign="top"><strong>01 — Team automation</strong><br /><br />A custom management panel that connects AI analysis with task assignment through Python and n8n.<br /><br /><a href="https://www.linkedin.com/feed/update/urn:li:activity:7427437145943900160/">Read the build story ↗</a></td>
+<td width="50%" valign="top"><strong>02 — Content operations</strong><br /><br />Creative direction, team coordination, and repeatable production across global content channels.<br /><br /><a href="https://www.linkedin.com/feed/update/urn:li:activity:7402377259329667073/">Explore the results ↗</a></td>
 </tr>
 </table>
 
-<br />
+### My working toolkit
 
-### Tools & direction
-
-**Building with** &nbsp; Python · n8n · Git · SQL  
-**Creating with** &nbsp; Blender · Video & photo editing  
-**Learning deeply** &nbsp; Algorithms · Machine learning · Data
-
-<br />
+**Code & automation** &nbsp; Python · n8n · Git · SQL  
+**Creative production** &nbsp; Blender · Video & photo editing  
+**Learning & exploring** &nbsp; Algorithms · Machine learning · Data
 
 ---
 
-**Have something worth building?**  
+**Let's build something useful.**  
 Open to internships and collaborations in AI, automation, and software.
 
-[Let's connect ↗](https://www.linkedin.com/in/guraygur/) &nbsp; · &nbsp; [guraygur.me](https://guraygur.me)
+[Get in touch ↗](https://www.linkedin.com/in/guraygur/) &nbsp; · &nbsp; [Explore my portfolio ↗](https://guraygur.me)

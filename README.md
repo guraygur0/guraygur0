@@ -8,7 +8,7 @@ I'm **Güray**, a computer engineering student who builds **AI automations and t
 
 ### Selected work
 
-<img src="assets/work-showcase.svg?v=2" width="100%" alt="Two illustrated projects: a Python and n8n management panel with AI-assisted task assignment, and creative production workflows across 4+ global channels." />
+<img src="https://raw.githubusercontent.com/guraygur0/guraygur0/f78ca9cb5fa51c4c6d0af94b05174f3a213d113f/assets/work-showcase.svg" width="100%" alt="Two illustrated projects: a Python and n8n management panel with AI-assisted task assignment, and creative production workflows across 4+ global channels." />
 
 <table>
 <tr>

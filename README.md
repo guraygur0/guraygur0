@@ -1,4 +1,4 @@
-<img src="assets/profile-cover.svg?motion=20260914" width="100%" alt="Güray Gür — AI automation for creative work. 4+ global content channels; 60% less manual work." />
+<img src="https://raw.githubusercontent.com/guraygur0/guraygur0/ee6cc84a44cd57a3852b78782d72b2733f4782e7/assets/profile-cover.svg" width="100%" alt="Güray Gür — AI automation for creative work. 4+ global content channels; 60% less manual work." />
 
 <p align="center"><a href="https://guraygur.me"><strong>PORTFOLIO ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://www.linkedin.com/in/guraygur/">LINKEDIN ↗</a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://medium.com/@guraygur">WRITING ↗</a></p>
 

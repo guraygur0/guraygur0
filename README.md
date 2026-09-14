@@ -1,31 +1,28 @@
-<img src="assets/profile-cover.svg" width="100%" alt="Güray Gür. Curiosity to code. Ideas to impact. AI automation for creative work. 4+ global content channels and 60% less manual work." />
+<img src="assets/profile-cover.svg?motion=20260914" width="100%" alt="Güray Gür — AI automation for creative work. 4+ global content channels; 60% less manual work." />
 
-<p align="center"><a href="https://guraygur.me"><strong>PORTFOLIO ↗</strong></a> &nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/guraygur/">LINKEDIN ↗</a> &nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp; <a href="https://medium.com/@guraygur">WRITING ↗</a></p>
+<p align="center"><a href="https://guraygur.me"><strong>PORTFOLIO ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://www.linkedin.com/in/guraygur/">LINKEDIN ↗</a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://medium.com/@guraygur">WRITING ↗</a></p>
 
 ### Engineering meets creative work.
 
-I'm **Güray**, a computer engineering student who builds **AI automations and tools for content teams**. My background in digital media shapes the way I approach software: start with a real workflow, build something useful, and improve it through use.
+I'm **Güray**, a computer engineering student building **AI automations and tools for content teams**. I connect code, creative production, and real workflows—then learn by putting them to use.
 
 ### Selected work
 
-<img src="https://raw.githubusercontent.com/guraygur0/guraygur0/f78ca9cb5fa51c4c6d0af94b05174f3a213d113f/assets/work-showcase.svg" width="100%" alt="Two illustrated projects: a Python and n8n management panel with AI-assisted task assignment, and creative production workflows across 4+ global channels." />
+<img src="assets/work-showcase.svg?motion=20260914" width="100%" alt="Animated Python and n8n automation flow, alongside a content-production timeline for 4+ global channels." />
 
-<table>
-<tr>
-<td width="50%" valign="top"><strong>01 — Team automation</strong><br /><br />A custom management panel that connects AI analysis with task assignment through Python and n8n.<br /><br /><a href="https://www.linkedin.com/feed/update/urn:li:activity:7427437145943900160/">Read the build story ↗</a></td>
-<td width="50%" valign="top"><strong>02 — Content operations</strong><br /><br />Creative direction, team coordination, and repeatable production across global content channels.<br /><br /><a href="https://www.linkedin.com/feed/update/urn:li:activity:7402377259329667073/">Explore the results ↗</a></td>
-</tr>
-</table>
+<p align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7427437145943900160/"><strong>01 · Read the automation story ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://www.linkedin.com/feed/update/urn:li:activity:7402377259329667073/"><strong>02 · Explore content results ↗</strong></a></p>
 
-### My working toolkit
+### Tools I build with
 
-**Code & automation** &nbsp; Python · n8n · Git · SQL  
-**Creative production** &nbsp; Blender · Video & photo editing  
-**Learning & exploring** &nbsp; Algorithms · Machine learning · Data
+| Code & automation | Creative production | Exploring |
+| :--- | :--- | :--- |
+| Python · n8n | Blender | Machine learning |
+| Git · SQL | Video & photo editing | Algorithms · Data |
 
 ---
 
-**Let's build something useful.**  
-Open to internships and collaborations in AI, automation, and software.
+### Have a workflow worth improving?
 
-[Get in touch ↗](https://www.linkedin.com/in/guraygur/) &nbsp; · &nbsp; [Explore my portfolio ↗](https://guraygur.me)
+Open to internships and collaborations in **AI, automation, and software**.
+
+[Let's talk ↗](https://www.linkedin.com/in/guraygur/) &nbsp; · &nbsp; [See my portfolio ↗](https://guraygur.me)

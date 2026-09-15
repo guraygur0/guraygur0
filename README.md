@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/guraygur0/guraygur0/ddd03efee45bbbd55b2ca59f2b9072b77f7d612a/assets/profile-cover.svg" width="100%" alt="Güray Gür — AI automation for creative work. 4+ global content channels; I build software that cuts repetitive work." />
+<img src="https://raw.githubusercontent.com/guraygur0/guraygur0/b225b2d161e21a26195dfeee0bfa8f0248654dab/assets/profile-cover.svg" width="100%" alt="Güray Gür — AI automation for creative work. 4+ global content channels; I build software that cuts repetitive work." />
 
 
 

@@ -1,66 +1,32 @@
-<img src="https://raw.githubusercontent.com/guraygur0/guraygur0/b225b2d161e21a26195dfeee0bfa8f0248654dab/assets/profile-cover.svg" width="100%" alt="Güray Gür — AI automation for creative work. 4+ global content channels; I build software that cuts repetitive work." />
+<a href="https://guraygur.me"><img src="https://raw.githubusercontent.com/guraygur0/guraygur0/86914a69bc4bb1f7aae7d63a914c0e6949bd1a5c/assets/profile-cover.svg" width="100%" alt="Güray Gür — I build AI automations for real creative work. Computer engineering student, developer and content creator. 4+ global content channels. Open to internships and collaborations." /></a>
 
+<p align="center"><a href="https://guraygur.me"><strong>PORTFOLIO ↗︎</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/guraygur/">LINKEDIN ↗︎</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/@Guray34">YOUTUBE ↗︎</a> &nbsp;·&nbsp; <a href="https://medium.com/@guraygur">WRITING ↗︎</a></p>
 
+I'm **Güray**, a computer engineering student in Istanbul. I build **applications and AI automations that cut repetitive work**, and I like figuring out where AI actually saves time in everyday workflows.
 
-
-<p align="center"><a href="https://guraygur.me"><strong>PORTFOLIO ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://www.linkedin.com/in/guraygur/">LINKEDIN ↗</a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://medium.com/@guraygur">WRITING ↗</a></p>
-
-
-
-
-### Software projects, AI automation, and creative production.
-
-
-
-
-I'm **Güray**, a computer engineering student working on **software projects and AI automations**. I build applications and tools, explore how AI fits into everyday workflows, and reduce repetitive manual work.
-
-Alongside software, I lead creative production across **4+ global content channels**. That experience also informs projects such as my custom management panel, which connects AI analysis with task assignment.
-
-
-
+Alongside software, I lead creative production across **4+ global content channels**. That work is where most of my ideas come from: my custom team panel, for example, connects AI analysis with task assignment.
 
 ### Projects & production work
 
+<p align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7427437145943900160/"><img src="https://raw.githubusercontent.com/guraygur0/guraygur0/86914a69bc4bb1f7aae7d63a914c0e6949bd1a5c/assets/card-automation.svg" width="49%" alt="01 · AI-assisted task assignment: a custom team management panel." /></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7402377259329667073/"><img src="https://raw.githubusercontent.com/guraygur0/guraygur0/86914a69bc4bb1f7aae7d63a914c0e6949bd1a5c/assets/card-production.svg" width="49%" alt="02 · Multi-channel production: workflows across 4+ global channels." /></a></p>
 
-
-
-<img src="https://raw.githubusercontent.com/guraygur0/guraygur0/ac0f005b9d4b36432548f0dce59f8bd247147f76/assets/work-showcase.svg" width="100%" alt="Animated software automation flow, alongside a content-production timeline for 4+ global channels." />
-
-
-
-
-<p align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7427437145943900160/"><strong>01 · Read the automation story ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://www.linkedin.com/feed/update/urn:li:activity:7402377259329667073/"><strong>02 · Explore content results ↗</strong></a></p>
-
-
-
+**01 · AI-assisted task assignment.** A custom team panel that turns AI analysis into assigned tasks. [Read the story ↗︎](https://www.linkedin.com/feed/update/urn:li:activity:7427437145943900160/)<br>
+**02 · Multi-channel production.** Creative direction, editing and team coordination across 4+ global channels. [See the results ↗︎](https://www.linkedin.com/feed/update/urn:li:activity:7402377259329667073/)
 
 ### Tools I build with
 
-
-
-
-| Code & automation | Creative production | Exploring |
+| AI & agents | Code & automation | Creative production |
 | :--- | :--- | :--- |
-| Python · n8n | Blender | Machine learning |
-| Git · SQL | Video & photo editing | Algorithms · Data |
+| Claude Code · Codex | Python · n8n · SQL | Premiere Pro · Photoshop |
+| Hooks · skills · agents | HTML · CSS · JS · Git | Blender |
 
-
-
+**Exploring:** machine learning · algorithms & data
 
 ---
 
+### Building something with software or AI?
 
+I'm open to **internships and collaborations** in software development, AI-powered applications and workflow automation.
 
-
-### Working on software or AI automation?
-
-
-
-
-I’m interested in internships and collaborations in **software development, AI-powered applications, and workflow automation**.
-
-
-
-
-[Let's talk ↗](https://www.linkedin.com/in/guraygur/) &nbsp; · &nbsp; [See my portfolio ↗](https://guraygur.me)
+**[Email me ↗︎](mailto:guraygurr@protonmail.com)** &nbsp;·&nbsp; [LinkedIn ↗︎](https://www.linkedin.com/in/guraygur/) &nbsp;·&nbsp; [Portfolio ↗︎](https://guraygur.me)
